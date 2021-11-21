@@ -25,7 +25,6 @@ export default function Home() {
       <img style="width: 300px; height: 300px;" src="frame.png"></img>
       </main>
 
-      <Footer />
     </div>
   )
 }
